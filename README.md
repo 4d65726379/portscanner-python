@@ -99,7 +99,7 @@ Only use this scanner on:
 
 Unauthorized scanning of external systems is illegal and may result in prosecution.
 
-### 🛠️ How it Works
+## 🛠️ How it Works
 
 The scanner creates a socket connection for each port and attempts a TCP connection. If the port is open, it is reported. Closed or unresponsive ports are ignored.
 
