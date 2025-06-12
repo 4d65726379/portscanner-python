@@ -1,4 +1,4 @@
-# 🇳🇱 Nederlandse uitleg
+# Nederlandse uitleg
 # 🔎 Portscanner in Python
 
 Een simpele poortscanner geschreven in Python, bedoeld voor educatieve doeleinden. Deze tool scant een IP-adres of domeinnaam op open TCP-poorten (1–1024).
@@ -31,7 +31,7 @@ Een simpele poortscanner geschreven in Python, bedoeld voor educatieve doeleinde
    Voer het IP-adres of domein in om te scannen:
    scanme.nmap.org
 
-### 🔐 Let op
+## 🔐 Let op
 
 Gebruik deze scanner alleen op:
 
@@ -43,17 +43,17 @@ Gebruik deze scanner alleen op:
 
 Illegaal scannen van systemen zonder toestemming is strafbaar (Computercriminaliteit wetgeving).
 
-### 🛠️ Hoe werkt het?
+## 🛠️ Hoe werkt het?
 
 De scanner gebruikt een socket-verbinding per poort en probeert TCP-connecties te maken. Als poort open is, wordt deze gemeld. Poorten die niet reageren of dicht zijn worden genegeerd.
 
-### 🧠 Gemaakt door
+## 🧠 Gemaakt door
 
     Espey
 
     Gemaakt tijdens mijn MBO ICT opleiding (Expert Systemen & Devices)
 
-# 🇬🇧 English Version
+# English Version
 # 🔎 Portscanner in Python
 
 A simple Python-based port scanner, created for educational purposes. This tool scans a given IP address or domain for open TCP ports (1–1024).
@@ -87,7 +87,7 @@ A simple Python-based port scanner, created for educational purposes. This tool 
    Enter the IP address or domain to scan:
    scanme.nmap.org 
 
-### 🔐 Legal Notice
+## 🔐 Legal Notice
 
 Only use this scanner on:
 
@@ -99,11 +99,11 @@ Only use this scanner on:
 
 Unauthorized scanning of external systems is illegal and may result in prosecution.
 
-#### 🛠️ How it Works
+### 🛠️ How it Works
 
 The scanner creates a socket connection for each port and attempts a TCP connection. If the port is open, it is reported. Closed or unresponsive ports are ignored.
 
-### 🧠 Created by
+## 🧠 Created by
 
     Espey
 
